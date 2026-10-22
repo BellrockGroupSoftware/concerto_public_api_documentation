@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Actions.Concerto/Actions.Concerto.csproj" />
+  <Project Path="Actions.MyCafm/Actions.MyCafm.csproj" Id="c6d8239c-a5d5-40ea-9fa9-44e9419f9ca7" />
+  <Project Path="Actions/Actions.csproj" />
+</Solution>
