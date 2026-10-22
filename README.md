@@ -7,7 +7,7 @@ Documentation and worked examples for integrating third-party systems with the C
 |Item|Description|
 |-|-|
 |`IAC Concerto API Guide v2.4.pdf`|The API guide — endpoints, authentication, events and payload reference. Start here.|
-|`actions\\\\\\\_api\\\\\\\_example/`|A runnable C# example showing an end-to-end Actions API integration.|
+|`actions_api_example`|A runnable C# example showing an end-to-end Actions API integration.|
 
 ## The Actions API example
 
@@ -30,7 +30,6 @@ hardcoded, a client changing their action configuration doesn't require a code c
 Requires the [.NET 10 SDK](https://dotnet.microsoft.com/download).
 
 ```bash
-cd actions\\\\\\\_api\\\\\\\_example
 dotnet run --project Actions
 ```
 
